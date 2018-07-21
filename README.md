@@ -3,8 +3,8 @@ A Image Classifier based on custom Architecture
 
 
 
-![Input Image](images/sample.PNG)
-![Output Captiion](images/out.png)
+![Input Image](images/sample.png)
+![Output ](images/out.PNG)
 
 
 
